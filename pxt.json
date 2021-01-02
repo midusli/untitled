@@ -1,0 +1,22 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Environment_IoT": "github:elecfreaks/pxt-iot-environment-kit#2ca25cc72b6fffb61f7a7346c1a234c6eaa0d46d",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
